@@ -7,7 +7,7 @@
 │  handle:   "xolerc"                      │
 │  alias:    "X"                           │
 │  from:     "Namangan, Uzbekistan"        │
-│  role:     "Pro gamer · AI · Dev"        │
+│  role:     "Programmer · AI · Dev"       │
 │  stack:    "Frontend · Backend · Design" │
 │  studio:   "XOLERIC ∞"                  │
 │  fun_fact: "2×2 = 5 😄"                 │
