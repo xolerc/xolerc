@@ -21,10 +21,10 @@
 | Domain | Project | Description |
 |--------|---------|-------------|
 | **AI-Native OS** | [xoleric](https://github.com/xolerc/xoleric) | Custom microkernel OS (Rust) with AI shell |
-| **Social Layer** | [xoleric.uz](https://github.com/xolerc/xoleric.uz) | Next-gen social platform |
+| **Mobile** | [xoleric-apk](https://github.com/xolerc/xoleric-apk) | Futuristic Android interface builds |
 | **Education** | [Savodhon](https://github.com/xolerc/Savodhon) · [akam-ustoz](https://github.com/xolerc/akam-ustoz) · [Ustoz.voice](https://github.com/xolerc/Ustoz.voice) | Literacy & learning tools |
-| **AI Tools** | [Xoleric-AI](https://github.com/xolerc/Xoleric-AI) | Self-improving AI framework |
-| **Web Apps** | [nanobook](https://github.com/xolerc/nanobook) · [ZIYOKOR-NONLARI](https://github.com/xolerc/ZIYOKOR-NONLARI) · [xoleric-chat](https://github.com/xolerc/xoleric-chat) | Experimental web systems |
+| **AI OS** | [xoleric-parfulyo](https://github.com/xolerc/xoleric-parfulyo) | AI-Native Operating System |
+| **Web Apps** | [nanobook](https://github.com/xolerc/nanobook) · [xoleric-chat](https://github.com/xolerc/xoleric-chat) · [ZIYOKOR-NONLARI](https://github.com/xolerc/ZIYOKOR-NONLARI) | Experimental web systems |
 | **Games** | [nano-game](https://github.com/xolerc/nano-game) | 100-level Pac-Man engine |
 | **Terminal** | [xoleric.os](https://github.com/xolerc/xoleric.os) | AI-powered browser terminal |
 
