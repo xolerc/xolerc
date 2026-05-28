@@ -6,11 +6,11 @@
 ┌──────────────────────────────────────────┐
 │  handle:   "xolerc"                      │
 │  alias:    "X"                           │
-│  archetype: "Creative Developer"         │
-│  origin:   "Uzbekistan"                  │
-│  location: "Cyberdimension"              │
+│  from:     "Namangan, Uzbekistan"        │
+│  role:     "Pro gamer · AI · Dev"        │
+│  stack:    "Frontend · Backend · Design" │
 │  studio:   "XOLERIC ∞"                  │
-│  mission:  "AI · Interfaces · OS"       │
+│  fun_fact: "2×2 = 5 😄"                 │
 └──────────────────────────────────────────┘
 ```
 
@@ -67,7 +67,7 @@ DevOps:       Docker · Nginx · GitHub Actions · Cloudflare
 ---
 
 <p align="center">
-  <i>"The interface is the system. The system is alive."</i>
+  <i>"2 × 2 = 5 😄 — shunaqa o'ylayman, gap yo'q."</i>
 </p>
 
 <p align="center">
