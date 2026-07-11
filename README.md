@@ -34,7 +34,6 @@ from:       "Namangan, Uzbekistan"
 role:       "Programmer · AI · Developer"
 stack:      "Frontend · Backend · Design"
 studio:     "XOLERIC ∞"
-fun_fact:   "2×2 = 5 😄"
 ```
 
 ---
@@ -92,10 +91,6 @@ DevOps:       Docker · Nginx · GitHub Actions · Cloudflare
 </p>
 
 ---
-
-<p align="center">
-  <i>"2 × 2 = 5 😄 — shunaqa o'ylayman, gap yo'q."</i>
-</p>
 
 <p align="center">
   <sub>∞ updated 2026</sub>
