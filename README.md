@@ -8,9 +8,9 @@
 
 <p>
 <a href="https://github.com/xolerc"><img src="https://img.shields.io/badge/GitHub-xolerc-181717?style=for-the-badge&logo=github"></a>
-<a href="https://t.me/wxoleric"><img src="https://img.shields.io/badge/Telegram-@wxoleric-26A5E4?style=for-the-badge&logo=telegram"></a>
-<a href="https://www.instagram.com/cvant23"><img src="https://img.shields.io/badge/Instagram-cvant23-E4405F?style=for-the-badge&logo=instagram"></a>
-<a href="https://xolerc.github.io/xoleric-parfulyo/"><img src="https://img.shields.io/badge/Portfolio-Live-00C853?style=for-the-badge"></a>
+<a href="https://t.me/Wxoleric"><img src="https://img.shields.io/badge/Telegram-%40Wxoleric-26A5E4?style=for-the-badge&logo=telegram"></a>
+<a href="https://www.instagram.com/xoleric_"><img src="https://img.shields.io/badge/Instagram-%40xoleric__-E4405F?style=for-the-badge&logo=instagram"></a>
+<a href="https://xolerc.github.io/mydrime/"><img src="https://img.shields.io/badge/Portfolio-Live-00C853?style=for-the-badge"></a>
 </p>
 
 </div>
@@ -139,9 +139,9 @@ Build the future.
 # 📫 Contact
 
 - GitHub: https://github.com/xolerc
-- Telegram: https://t.me/wxoleric
-- Instagram: https://instagram.com/cvant23
-- Portfolio: https://xolerc.github.io/xoleric-parfulyo/
+- Telegram: https://t.me/Wxoleric
+- Instagram: https://www.instagram.com/xoleric_
+- Portfolio: https://xolerc.github.io/mydrime/
 
 ---
 
