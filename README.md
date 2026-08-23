@@ -1,6 +1,6 @@
 <div align="center">
 
-# XOLERIC
+# XOLERIC ART
 
 ### AI-Native OS Builder • Frontend Architect • Interface Engineer
 
