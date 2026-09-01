@@ -32,20 +32,7 @@ Til:         O'zbek, ingliz
 
 ---
 
-## 🚀 Hozirgi loyihalar
 
-### 🎧 XOLERIC MUSIC
-Zero-UI, gest asosida boshqariladigan musiqa pleyeri — an'anaviy transport tugmalarsiz. Real-time audio vizualizatsiya, dinamik mesh gradientlar, haptic feedback va dopamine-conscious UX bilan.
-- **Flutter/Android**: Media3/ExoPlayer orqali audio playback, Drift database, gest asosidagi player ekranlari, particle burst animatsiyalari, crossfade
-- **Web MVP**: Web Audio API va MediaSession asosida single-file implementatsiya
-
-### 🤖 XOLERIC 0.01
-Ollama ustida qurilgan, o'z-o'zini yaxshilaydigan AI coding agent (Python). `/evolve` buyrug'i orqali o'z kod bazasini avtonom tarzda rivojlantiradi, git safety checkpoint'lar bilan himoyalangan.
-
-### 🖥️ XOLERIC OS
-Brauzer asosidagi desktop OS simulyatsiyasi — macOS/Windows/Linux estetikasiga raqobatchi darajada yaqinlashishni maqsad qilgan loyiha.
-
----
 
 ## 🛠️ Texnologiyalar
 
@@ -64,11 +51,6 @@ Brauzer asosidagi desktop OS simulyatsiyasi — macOS/Windows/Linux estetikasiga
 
 ---
 
-## 🎨 Dizayn falsafasi
-
-Qorong'i fon, neon urg'ular, minimalizm — lekin har bir element funksional maqsadga xizmat qiladi. Interfeys "shunchaki chiroyli" bo'lishi shart emas; u his qilinishi kerak.
-
----
 
 <div align="center">
 
