@@ -16,11 +16,6 @@
 
 ---
 
-## 👨‍💻 Men haqimda
-
-Men mustaqil dasturchi va creative technologist sifatida **XOLERIC** shaxsiy brendi ostida ishlayman. Ishim tashkilotga emas, loyihalarga bog'liq — g'oyadan production-ready mahsulotgacha bo'lgan yo'lni o'zim boshqaraman: dizayn, arxitektura, kod va polish.
-
-Meni qiziqtiradigan asosiy yo'nalish — **an'anaviy UI patternlaridan voz kechish**. Tugmalar, menyular, statik interfeyslar o'rniga gest asosidagi, o'zini his qildiradigan (dopamine-conscious) tajribalar quraman.
 
 ```yaml
 Rol:        Full-Stack Developer / Creative Technologist
