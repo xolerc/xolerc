@@ -2,16 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b101a,100:1a1405&height=190&section=header&text=XOLERIC&fontSize=64&fontColor=f5c518&fontAlignY=38" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=F5C518&center=true&vCenter=true&width=700&lines=Salom!+Men+Xoleric+man;Natija+beradigan+veb-tajribalar+yarataman;Frontend+%E2%80%A2+Backend+%E2%80%A2+AI+%E2%80%A2+Dizayn;Kreativ+kod+%2B+60fps+har+qurilmada" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=F5C518&center=true&vCenter=true&width=700&lines=Salom!+Men+XOLERIC+man;Natija+beradigan+veb-tajribalar+yarataman;Frontend+%E2%80%A2+Backend+%E2%80%A2+AI+%E2%80%A2+Dizayn;Kreativ+kod+%2B+60fps+har+qurilmada" />
 
 <p>
 <a href="https://github.com/xolerc"><img src="https://img.shields.io/badge/GitHub-xolerc-181717?style=for-the-badge&logo=github"></a>
 <a href="https://t.me/Wxoleric"><img src="https://img.shields.io/badge/Telegram-%40Wxoleric-26A5E4?style=for-the-badge&logo=telegram"></a>
 <a href="https://www.instagram.com/xoleric_"><img src="https://img.shields.io/badge/Instagram-%40xoleric_-E4405F?style=for-the-badge&logo=instagram"></a>
 <a href="https://youtube.com/@xoleric"><img src="https://img.shields.io/badge/YouTube-%40xoleric-FF0000?style=for-the-badge&logo=youtube"></a>
-<a href="https://www.linkedin.com/in/xoleric-undefined-8b689b3a1"><img src="https://img.shields.io/badge/LinkedIn-xoleric-0A66C2?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:devxoleric@gmail.com"><img src="https://img.shields.io/badge/Gmail-Yozish-EA4335?style=for-the-badge&logo=gmail"></a>
-<a href="https://xolerc.github.io/mydrime/"><img src="https://img.shields.io/badge/Portfolio-Jonli-F5C518?style=for-the-badge&logoColor=black"></a>
+<a href="https://xolerc.github.io/mydrime/"><img src="https://img.shields.io/badge/Portfolio-Rasmiy-F5C518?style=for-the-badge&logoColor=black"></a>
 </p>
 
 </div>
@@ -19,14 +18,16 @@
 ---
 
 ```yaml
-Ism:         Xoleric
+Ism:         XOLERIC
 Rol:         Frontend & Backend Developer / Kreativ Texnolog
-Fokus:       Interaktiv UI • AI tizimlar • Veb-tezlik
+Fokus:       Interaktiv UI • AI tizimlar • Veb-tezlik • Flutter • PWA
 Studiya:     XOLERIC
 Joylashuv:   O'zbekiston
 Tillar:      O'zbek, ingliz
-Portfolio:   xolerc.github.io/mydrime
+Portfolio:   https://xolerc.github.io/mydrime/  # ← rasmiy manzil
 ```
+
+> **Rasmiy portfolio:** https://xolerc.github.io/mydrime/
 
 ---
 
@@ -70,10 +71,29 @@ Portfolio:   xolerc.github.io/mydrime
 
 <div align="center">
 
-<a href="https://github.com/xolerc/mydrime"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xolerc&repo=mydrime&title_color=F5C518&icon_color=F5C518&text_color=E8ECF4&bg_color=0D1117&hide_border=true" alt="mydrime" /></a>
+<a href="https://github.com/xolerc/mydrime"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xolerc&repo=mydrime&title_color=F5C518&icon_color=F5C518&text_color=E8ECF4&bg_color=0D1117&hide_border=true" alt="mydrime — rasmiy portfolio" /></a>
+<a href="https://github.com/xolerc/Savodhon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xolerc&repo=Savodhon&title_color=F5C518&icon_color=F5C518&text_color=E8ECF4&bg_color=0D1117&hide_border=true" alt="Savodhon" /></a>
 <a href="https://github.com/xolerc/xoleric.os"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xolerc&repo=xoleric.os&title_color=F5C518&icon_color=F5C518&text_color=E8ECF4&bg_color=0D1117&hide_border=true" alt="xoleric.os" /></a>
 
 </div>
+
+| Loyiha | Nima | Jonli |
+|---|---|---|
+| **mydrime** | Rasmiy portfolio (statik HTML/CSS/JS, WebGL fon) | https://xolerc.github.io/mydrime/ |
+| **Savodhon** | O'zbek tili PWA + Flutter ilova (bo'g'inlab o'qish, gamifikatsiya) | APK: Releases bo'limida |
+| **Savodhon** | O'zbek tili PWA + Flutter ilova (bo'g'inlab o'qish, gamifikatsiya) | APK: Releases bo'limida |
+| **xoleric.os** | Brauzer terminal/OS tajribasi | Repo ichidagi demo |
+
+---
+
+## 🔗 Rasmiy havolalar (hamma joyda bir xil)
+
+- 🌐 Portfolio: https://xolerc.github.io/xoleric/
+- 💻 GitHub: https://github.com/xolerc
+- ✈️ Telegram: https://t.me/Wxoleric
+- 📸 Instagram: https://www.instagram.com/xoleric_
+- 🎬 YouTube: https://youtube.com/@xoleric
+- 📧 Email: devxoleric@gmail.com
 
 ---
 
