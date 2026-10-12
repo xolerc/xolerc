@@ -7,7 +7,7 @@
 <p>
 <a href="https://github.com/xolerc"><img src="https://img.shields.io/badge/GitHub-xolerc-181717?style=for-the-badge&logo=github"></a>
 <a href="https://t.me/Wxoleric"><img src="https://img.shields.io/badge/Telegram-%40Wxoleric-26A5E4?style=for-the-badge&logo=telegram"></a>
-<a href="https://www.instagram.com/xoleric_"><img src="https://img.shields.io/badge/Instagram-%40xoleric_-E4405F?style=for-the-badge&logo=instagram"></a>
+<a href="https://www.instagram.com/ixoleric"><img src="https://img.shields.io/badge/Instagram-%40ixoleric-E4405F?style=for-the-badge&logo=instagram"></a>
 <a href="https://youtube.com/@xoleric"><img src="https://img.shields.io/badge/YouTube-%40xoleric-FF0000?style=for-the-badge&logo=youtube"></a>
 <a href="mailto:devxoleric@gmail.com"><img src="https://img.shields.io/badge/Gmail-Yozish-EA4335?style=for-the-badge&logo=gmail"></a>
 <a href="https://xolerc.github.io/mydrime/"><img src="https://img.shields.io/badge/Portfolio-Rasmiy-F5C518?style=for-the-badge&logoColor=black"></a>
@@ -91,7 +91,7 @@ Portfolio:   https://xolerc.github.io/mydrime/  # ← rasmiy manzil
 - 🌐 Portfolio: https://xolerc.github.io/xoleric/
 - 💻 GitHub: https://github.com/xolerc
 - ✈️ Telegram: https://t.me/Wxoleric
-- 📸 Instagram: https://www.instagram.com/xoleric_
+- 📸 Instagram: https://www.instagram.com/ixoleric
 - 🎬 YouTube: https://youtube.com/@xoleric
 - 📧 Email: devxoleric@gmail.com
 
